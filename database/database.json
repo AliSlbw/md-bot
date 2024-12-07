@@ -1,0 +1,92 @@
+{
+  "set": {
+    "6283804321656@s.whatsapp.net": {
+      "lang": "id",
+      "limit": 0,
+      "uang": 0,
+      "status": 0,
+      "join": false,
+      "public": true,
+      "anticall": true,
+      "readsw": false,
+      "autobio": false,
+      "autoread": true,
+      "autotyping": true,
+      "multiprefix": false,
+      "template": "textMessage"
+    }
+  },
+  "users": {
+    "6283804321656@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1733541030049,
+      "lastbegal": 1733541030049,
+      "lastrampok": 1733541030049
+    },
+    "6285839281893@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1733541253988,
+      "lastbegal": 1733541253988,
+      "lastrampok": 1733541253988
+    },
+    "6285795210863@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 1099,
+      "uang": 1010000,
+      "lastclaim": 1733541418202,
+      "lastbegal": 1733541418202,
+      "lastrampok": 1733541418202
+    },
+    "6288286044702@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1733541486257,
+      "lastbegal": 1733541486257,
+      "lastrampok": 1733541486257
+    },
+    "6285783597662@s.whatsapp.net": {
+      "vip": false,
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100,
+      "uang": 10000,
+      "lastclaim": 1733586730106,
+      "lastbegal": 1733586730106,
+      "lastrampok": 1733586730106
+    }
+  },
+  "game": {
+    "suit": [],
+    "menfes": [],
+    "tekateki": [],
+    "akinator": [],
+    "tictactoe": [],
+    "tebaklirik": [],
+    "kuismath": [],
+    "tebaklagu": [],
+    "tebakkata": [],
+    "family100": [],
+    "susunkata": [],
+    "tebakbom": [],
+    "tebakkimia": [],
+    "caklontong": [],
+    "tebaknegara": [],
+    "tebakgambar": [],
+    "tebakbendera": []
+  },
+  "groups": {},
+  "database": {}
+}
